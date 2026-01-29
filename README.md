@@ -44,5 +44,5 @@ Run the notebook cells in order.
 
 ## Acknowledgements / References
 
-Dataset: https://huggingface.co/datasets/merve/tr-h4-norobots
-Base model: https://huggingface.co/ytu-ce-cosmos/tr-Qwen2.5-0.5B-SFT-v1
+- Dataset: https://huggingface.co/datasets/merve/tr-h4-norobots
+- Base model: https://huggingface.co/ytu-ce-cosmos/tr-Qwen2.5-0.5B-SFT-v1
